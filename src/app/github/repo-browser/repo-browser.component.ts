@@ -4,7 +4,7 @@ import { GithubService } from '../shared/github.service';
 
 @Component({
   selector: 'repo-browser',
-  templateUrl: './repo-browser.component.html',
+  templateUrl: './repo-browser.component.ngml',
   styleUrls: ['./repo-browser.component.css']
 })
 export class RepoBrowserComponent {

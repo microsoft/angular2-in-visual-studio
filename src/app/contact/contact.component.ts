@@ -4,7 +4,7 @@ import CustomValidators from '../forms/CustomValidators';
 
 @Component({
   selector: 'app-contact',
-  templateUrl: './contact.component.html',
+  templateUrl: './contact.component.ngml',
   styleUrls: ['./contact-component.css']
 })
 export class ContactComponent implements OnInit {
