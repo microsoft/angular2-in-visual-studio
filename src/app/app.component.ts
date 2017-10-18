@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 
 @Component({
   selector: 'app',
-  template: '<span>{{prop1.tolower}}</spa>',
+  template: '<span>{{prop1.toLower()}}</spa>',
 })
 export class InlineComponent {
   prop1 = 'hello';

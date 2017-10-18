@@ -2,7 +2,7 @@
   Angular 2 Seed
 </h3>
 <nav>
-	<a [routerLink]="['/']" title={{pro1.toLowCase}}>
+	<a [routerLink]="['/']" title={{prop1}}>
     Home
   </a>
   |
