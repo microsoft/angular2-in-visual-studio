@@ -1,14 +1,14 @@
+## angular2-seed
 
-# Contributing
+A simple starter project demonstrating the basic concepts of Angular 2.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+### Usage
+- Clone or fork this repository
+- Make sure you have [node.js](https://nodejs.org/) installed version 5+
+- Make sure you have NPM installed version 3+
+- `WINDOWS ONLY` run `npm install -g webpack webpack-dev-server typescript` to install global dependencies
+- run `npm install` to install dependencies
+- run `npm start` to fire up dev server
+- open browser to [`http://localhost:3000`](http://localhost:3000)
+- if you want to use other port, open `package.json` file, then change port in `--port 3000` script
