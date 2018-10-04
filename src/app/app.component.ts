@@ -11,7 +11,7 @@ export class InlineComponent {
 
 @Component({
   selector: 'app',
-  templateUrl: './app.component.ngml',
+  template: './app.component.html'
 })
 export class AppComponent {
   prop1 = 'hello';
